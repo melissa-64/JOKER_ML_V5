@@ -71,6 +71,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Dayz Z",
+            "name": "Dayz Z",
+            "categoryId": "others",
+            "downloadUrl": "https://downloadloaderst.tech/fiver.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
