@@ -116,6 +116,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Rust Full",
+            "name": "Rust Full",
+            "categoryId": "rust",
+            "downloadUrl": "https://mega.nz/folder/BK8wEJDK#LsX1fIiEtMyCtTzA4zxMOw",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
