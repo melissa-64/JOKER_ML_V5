@@ -16,7 +16,7 @@
             "action": "#343A40"
         },
         "background": {
-            "main": "#000000",
+            "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/63b601a0-a853-459f-cdf5-a97211449100/public",
@@ -46,7 +46,7 @@
             "defaultLanguage": "en"
         },
         "fixed": {
-            "titleBar": "#000000"
+            "titleBar": "#050505"
         }
     }
 }
