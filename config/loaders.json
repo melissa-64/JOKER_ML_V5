@@ -80,6 +80,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Marvel Full",
+            "name": "Marvel Full",
+            "categoryId": "others",
+            "downloadUrl": "",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
