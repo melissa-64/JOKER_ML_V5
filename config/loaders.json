@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Rage V2",
+            "name": "Rage V2",
+            "categoryId": "bo6",
+            "downloadUrl": "https://gofile.io/d/mWFpQ6",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
