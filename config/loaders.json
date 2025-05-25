@@ -62,6 +62,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Nixware",
+            "name": "Nixware",
+            "categoryId": "cs2",
+            "downloadUrl": "https://nixware.cc/user-panel/subscriptions",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
