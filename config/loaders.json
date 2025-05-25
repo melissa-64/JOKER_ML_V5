@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Flubba External",
+            "name": "Flubba External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        }
+    ]
 }
