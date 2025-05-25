@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Loader.exe",
+            "name": "MWIII Unlock All",
+            "categoryId": "mw3",
+            "downloadUrl": "https://workupload.com/start/vqqHqhBBX2h",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
