@@ -17,6 +17,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Nemesis V2",
+            "name": "Nemesis V2",
+            "categoryId": "bo6",
+            "downloadUrl": "https://mega.nz/folder/mpphzYbI#miNZ28oLZ5-jb5NCtMmfwQ/file/L4pQ2RxQ",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
