@@ -89,6 +89,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Baimless",
+            "name": "Baimless",
+            "categoryId": "cs2",
+            "downloadUrl": "https://baimless.com/forums/files/file/3-baimless-cs2-loader/?do=download&csrfKey=a77a7f4a534c1015f43f0c2447c3257e",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
