@@ -107,6 +107,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Fecurity loader",
+            "name": "Fecurity loader",
+            "categoryId": "bo6",
+            "downloadUrl": "https://mega.nz/folder/ORsFGQDT#nOKWTNSs97e42MbQhuIoSg",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
