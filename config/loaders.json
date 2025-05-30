@@ -125,6 +125,15 @@
             "status": "updating",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/5590b72b-cbf4-44ed-db3d-11929e6c4d00/public",
             "productUrl": ""
+        },
+        {
+            "id": "BO6UA",
+            "name": "BO6 Unlock All",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/BO6UA.exe",
+            "status": "updating",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/0b78f9a4-07f2-439c-cbed-86c72712d200/public",
+            "productUrl": ""
         }
     ]
 }
