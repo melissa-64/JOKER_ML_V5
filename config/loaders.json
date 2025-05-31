@@ -134,6 +134,15 @@
             "status": "updating",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/0b78f9a4-07f2-439c-cbed-86c72712d200/public",
             "productUrl": ""
+        },
+        {
+            "id": "CS2Launcher.exe",
+            "name": "Phantom CS2",
+            "categoryId": "cs2",
+            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/CS2Launcher.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
