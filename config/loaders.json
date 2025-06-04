@@ -143,6 +143,15 @@
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/3259a652-abf5-4482-5aad-97588fff6e00/public",
             "productUrl": ""
+        },
+        {
+            "id": "LOADER_PG.exe",
+            "name": "Progress External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/LOADER_PG.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/dce3de39-2871-4cbf-9e2d-06dc6093fe00/public",
+            "productUrl": ""
         }
     ]
 }
