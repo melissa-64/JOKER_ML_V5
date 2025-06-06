@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Flubba External",
-            "name": "Flubba External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
-            "status": "online",
-            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/7e2e83e7-3304-4d1e-2170-3a9ee7f49600/public",
-            "productUrl": ""
-        },
-        {
             "id": "Forcesave Tool",
             "name": "Forcesave Tool",
             "categoryId": "bo6",
