@@ -152,6 +152,15 @@
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/1718acee-d7bb-4372-a25f-7838f2ea3a00/public",
             "productUrl": ""
+        },
+        {
+            "id": "Astrid.exe",
+            "name": "ASTRID",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/Astrid.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
