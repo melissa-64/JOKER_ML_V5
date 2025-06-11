@@ -161,6 +161,15 @@
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/12259e1e-7250-43b9-06ed-f0f0ef260400/public",
             "productUrl": ""
+        },
+        {
+            "id": "LAUNCHER_LEGACY.exe",
+            "name": "Fecurity Legacy Build",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/LAUNCHER_LEGACY.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/3e6a64a8-6815-4bda-2b31-6c7917f31600/public",
+            "productUrl": ""
         }
     ]
 }
