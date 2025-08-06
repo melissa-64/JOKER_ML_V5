@@ -4,7 +4,7 @@
             "id": "client_forcesave.exe",
             "name": "Forcesave Tool",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/client_forcesave.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/client_forcesave.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/f564e0f2-1d8a-44d0-49ab-284d054da700/public",
             "productUrl": ""
@@ -13,7 +13,7 @@
             "id": "MWIIIUA",
             "name": "MWIII Unlock All",
             "categoryId": "mw3",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/MWIIIUA.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/MWIIIUA.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/6470aa44-443a-46d2-649f-a861b8f53500/public",
             "productUrl": ""
@@ -31,7 +31,7 @@
             "id": "Unicore.exe",
             "name": "Unicore Ragemp+AltV",
             "categoryId": "fivem",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/Unicore.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/Unicore.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/80e0a647-1830-48c7-dd2c-b3cc58bc7c00/public",
             "productUrl": ""
@@ -40,7 +40,7 @@
             "id": "ctdzVurfpAH7",
             "name": "Nixware",
             "categoryId": "cs2",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/ctdtzVufpAH7.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/ctdtzVufpAH7.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/d4798b76-82da-43fc-d977-78b2e66f2200/public",
             "productUrl": ""
@@ -58,7 +58,7 @@
             "id": "oifq",
             "name": "Marvel Full",
             "categoryId": "mr",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/oifq.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/oifq.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/08f03700-a04b-4863-f2e0-df945c375a00/public",
             "productUrl": ""
@@ -67,7 +67,7 @@
             "id": "Baimless",
             "name": "Baimless",
             "categoryId": "cs2",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/svchost.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/svchost.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
@@ -76,7 +76,7 @@
             "id": "PhantomLauncher.exe",
             "name": "Phantom",
             "categoryId": "gtaV",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/PhantomLauncher.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/PhantomLauncher.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/3259a652-abf5-4482-5aad-97588fff6e00/public",
             "productUrl": ""
@@ -85,7 +85,7 @@
             "id": "LAUNCHER.exe",
             "name": "Fecurity loader",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/LAUNCHER.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/LAUNCHER.exe",
             "status": "online",
             "imageUrl": "https://fecurity.cloud/images/logo/white.png",
             "productUrl": ""
@@ -94,7 +94,7 @@
             "id": "Rust Full",
             "name": "Rust Full",
             "categoryId": "rust",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/LoaderNew12.1.3.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/LoaderNew12.1.3.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/56dcf439-2c67-4dfb-28cc-5ca43668c100/public",
             "productUrl": ""
@@ -103,7 +103,7 @@
             "id": "NemesisV2.exe",
             "name": "Nemesis V2",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/NemesisV2.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/NemesisV2.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/9c6af43e-a897-4f41-0b1c-eb1a03a1d900/public",
             "productUrl": ""
@@ -112,7 +112,7 @@
             "id": "Rage_V2.exe",
             "name": "Rage V2",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/Rage_V2.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/Rage_V2.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/5590b72b-cbf4-44ed-db3d-11929e6c4d00/public",
             "productUrl": ""
@@ -121,7 +121,7 @@
             "id": "Season_4_V1.4UA.exe",
             "name": "BO6 Unlock All",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/Season_4_V1.4UA.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/Season_4_V1.4UA.exe",
             "status": "updating",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/0b78f9a4-07f2-439c-cbed-86c72712d200/public",
             "productUrl": ""
@@ -130,7 +130,7 @@
             "id": "CS2Launcher.exe",
             "name": "Phantom CS2",
             "categoryId": "cs2",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/CS2Launcher.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/CS2Launcher.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/a43b8e56-8542-4714-7d38-571e017ac100/public",
             "productUrl": ""
@@ -139,7 +139,7 @@
             "id": "LOADER_PG.exe",
             "name": "Progress External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/LOADER_PG.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/LOADER_PG.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/dce3de39-2871-4cbf-9e2d-06dc6093fe00/public",
             "productUrl": ""
@@ -148,7 +148,7 @@
             "id": "Loader_LD.exe",
             "name": "Dystopia (LDV3)",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/Loader_LD.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/Loader_LD.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/1718acee-d7bb-4372-a25f-7838f2ea3a00/public",
             "productUrl": ""
@@ -157,7 +157,7 @@
             "id": "LAUNCHER_LEGACY.exe",
             "name": "Fecurity Legacy Build",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/LAUNCHER_LEGACY.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/LAUNCHER_LEGACY.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/3e6a64a8-6815-4bda-2b31-6c7917f31600/public",
             "productUrl": ""
@@ -166,7 +166,7 @@
             "id": "Season_4_V1.6.exe",
             "name": "Astrid",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/908880806762659871/C/Season_4_V1.6.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/908880806762659871/C/Season_4_V1.6.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/12259e1e-7250-43b9-06ed-f0f0ef260400/public",
             "productUrl": ""
